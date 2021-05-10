@@ -1,0 +1,9 @@
+C:\Users\Mostafa Rabee\source\repos\TransferDataToDatabase\TransferDataToDatabase\bin\Debug\TransferDataToDatabase.exe
+C:\Users\Mostafa Rabee\source\repos\TransferDataToDatabase\TransferDataToDatabase\bin\Debug\TransferDataToDatabase.pdb
+C:\Users\Mostafa Rabee\source\repos\TransferDataToDatabase\TransferDataToDatabase\obj\Debug\TransferDataToDatabase.csprojAssemblyReference.cache
+C:\Users\Mostafa Rabee\source\repos\TransferDataToDatabase\TransferDataToDatabase\obj\Debug\TransferDataToDatabase.Form1.resources
+C:\Users\Mostafa Rabee\source\repos\TransferDataToDatabase\TransferDataToDatabase\obj\Debug\TransferDataToDatabase.Properties.Resources.resources
+C:\Users\Mostafa Rabee\source\repos\TransferDataToDatabase\TransferDataToDatabase\obj\Debug\TransferDataToDatabase.csproj.GenerateResource.cache
+C:\Users\Mostafa Rabee\source\repos\TransferDataToDatabase\TransferDataToDatabase\obj\Debug\TransferDataToDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Rabee\source\repos\TransferDataToDatabase\TransferDataToDatabase\obj\Debug\TransferDataToDatabase.exe
+C:\Users\Mostafa Rabee\source\repos\TransferDataToDatabase\TransferDataToDatabase\obj\Debug\TransferDataToDatabase.pdb
